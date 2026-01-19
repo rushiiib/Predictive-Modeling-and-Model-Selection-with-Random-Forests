@@ -1,11 +1,3 @@
----
-title: "STAT 452: Predictive Modelling Project"
-author: "Aarushi Bhatnagar (301588428)"
-date: "2025-12-01"
-format: html
-editor: visual
----
-
 ```{r}
 set.seed(200)
 
